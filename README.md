@@ -2,6 +2,10 @@
 ### Physcis PhD student
 ### Expert in experimental computational physics with specalizations in deep field astrophysics and a passion for public outreach
 
+[Recent Publications](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-8047-8351&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+
+[Personal Website](https://kelceydavis.weebly.com/)
+
 <!--
 **kelceydavis33/kelceydavis33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
