@@ -2,8 +2,10 @@
 ### Physcis PhD student
 #### Expert in experimental computational physics with specalizations in deep field astrophysics and a passion for public outreach
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kelceydavis33?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelceydavis33&layout=compact&theme=radical&langs_count=20)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelceydavis33&theme=2077) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelceydavis33&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kelceydavis33&theme=2077) 
 
 
 [Recent Publications](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-8047-8351&sort=date%20desc%2C%20bibcode%20desc&p_=0) [Personal Website](https://kelceydavis.weebly.com/)
