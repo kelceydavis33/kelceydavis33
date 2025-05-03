@@ -1,4 +1,6 @@
-## Hi there 👋
+## Kelcey Davis
+### Physcis PhD student
+### Expert in experimental computational physics with specalizations in deep field astrophysics and a passion for public outreach
 
 <!--
 **kelceydavis33/kelceydavis33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
